@@ -1,0 +1,1 @@
+Goal: build python wrapper to Google's WebRTC code so that all the audio/video engine, codecs, devices and peer connection are available from within a Python program.
